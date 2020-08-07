@@ -6,6 +6,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 Would you like to find me?
 
+<!-- [![Gmail Badge](https://img.shields.io/badge/-thiago.srib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.srib@gmail.com)](mailto:thiago.srib@gmail.com) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/thiago-ribeiro-1279234a)](https://br.linkedin.com/in/thiago-ribeiro-1279234a/)
 
 - 🔭 I’m currently working on Bun! mobile app
