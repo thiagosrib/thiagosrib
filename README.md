@@ -10,6 +10,7 @@ Would you like to find me?
 
 - 🔭 I’m currently working on Bun! mobile app
 - 🌱 I’m currently learning Node.js, ReactJS, React Native ans Scrum methodologie
+- 🌱 Finishing Next Level Week #2 by Rocketseat.... And anxious to **start GoStack** course
 
 <!--
 **thiagosrib/thiagosrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
