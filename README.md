@@ -6,7 +6,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-ribeiro-1279234a)](https://www.linkedin.com/in/thiago-ribeiro-1279234a)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/thiago-ribeiro-1279234a)](https://br.linkedin.com/in/thiago-ribeiro-1279234a/)
 
 - 🔭 I’m currently working on Bun! mobile app
 - 🌱 I’m currently learning Node.js, ReactJS, React Native ans Scrum methodologie
