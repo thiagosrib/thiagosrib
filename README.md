@@ -9,7 +9,7 @@ Would you like to find me?
 [![Gmail Badge](https://img.shields.io/badge/-thiago.srib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.srib@gmail.com)](mailto:thiago.srib@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/thiago-ribeiro-1279234a)](https://br.linkedin.com/in/thiago-ribeiro-1279234a/)
 
-- ⚡ I start **start GoStack** course by Rocketseat
+- ⚡ I start **GoStack** course by Rocketseat
 - 🔭 I’m currently working on Bun! mobile app
 - 🌱 I’m currently learning Node.js, ReactJS, React Native ans Scrum methodologie
 - ⚡ I finished Next Level Week #2 (NLW #2) by Rocketseat
