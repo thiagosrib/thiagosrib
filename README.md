@@ -13,7 +13,7 @@ My current achievements
 
 - ⚡ I start **GoStack** course by Rocketseat
 - 🔭 I’m currently working on Bun! mobile app
-- 🌱 I’m currently learning Node.js, ReactJS, React Native, Ionic and Scrum methodologie
+- 🌱 I’m currently learning Node.js, ReactJS, React Native, Ionic and Scrum framework
 
 <!--
 **thiagosrib/thiagosrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
