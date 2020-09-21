@@ -11,7 +11,7 @@ Would you like to find me?
 
 My current achievements
 
-- ⚡ I start **GoStack** course by Rocketseat
+- ⚡ I start **#GoStack** course by Rocketseat
 - 🔭 I’m currently working on Bun! mobile app
 - 🌱 I’m currently learning Node.js, ReactJS, React Native, Ionic and Scrum framework
 
