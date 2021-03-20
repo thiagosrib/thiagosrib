@@ -12,8 +12,8 @@ Would you like to find me?
 My current achievements
 
 - ⚡ I start **#GoStack** course by Rocketseat
-- 🔭 I’m currently working on Bun! mobile app
-- 🌱 I’m currently learning Node.js, ReactJS, React Native, Ionic and Scrum framework
+- 🔭 I’m currently working on AILA mobile app. It's a Risk Management and Compliance mobile aplication.
+- 🌱 I’m currently learning more about Node.js, ReactJS, React Native, Ionic and Scrum framework
 
 <!--
 **thiagosrib/thiagosrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
