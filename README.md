@@ -11,7 +11,8 @@ Would you like to find me?
 
 My current achievements
 
-- ⚡ I start **#GoStack** course by Rocketseat
+- ⚡ Now I'm doing **NLW Together** by Rocketseat, learning Flutter and Dart
+- ⚡ I'm doing **#GoStack** course by Rocketseat
 - 🔭 I’m currently working on AILA mobile app. It's a Risk Management and Compliance mobile aplication.
 - 🌱 I’m currently learning more about Node.js, ReactJS, React Native, Ionic and Scrum framework
 
