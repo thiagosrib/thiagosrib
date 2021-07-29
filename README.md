@@ -39,7 +39,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  <img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" />
 </div>
 
-##My current achievements
+## My current achievements
 
 - ⚡ Now I'm doing **NLW Together** by Rocketseat, learning Flutter and Dart
 - ⚡ I'm doing **#GoStack** course by Rocketseat
