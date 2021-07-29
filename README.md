@@ -20,7 +20,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 ## 🛠  Technologies and tools
 
-<a name="learning-now"></a>
+<a name="tech_tools"></a>
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -51,21 +51,19 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
   ![Snake animation](https://github.com/thiagosrib/thiagosrib/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<a name="learning-next"></a>
+<a name="learning-now"></a>
 
 ## 📖  What I am currently learning / improving on
 
-<div>
- [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
- &nbsp;
- [<img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=06bcee" alt="React.JS logo" title="React.JS" height="25" />][learning_now_anchor]
- &nbsp;
- [<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=06bcee" alt="React Native logo" title="React Native" height="25" />][learning_now_anchor]
- &nbsp;
- [<img src="https://img.shields.io/badge/Adonis-282C34?logo=adonisjs&logoColor=FFFFFF" alt="Adonis logo" title="Adonis" height="25" />][learning_now_anchor]
- &nbsp;
- [<img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" />][learning_now_anchor]
-</div>
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=06bcee" alt="React.JS logo" title="React.JS" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=06bcee" alt="React Native logo" title="React Native" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Adonis-282C34?logo=adonisjs&logoColor=FFFFFF" alt="Adonis logo" title="Adonis" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" />][learning_now_anchor]
 
 ## My current achievements
 
