@@ -19,7 +19,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 </div>
 <br><br><br>
 
-Would you like to find me?
+## Would you like to find me?
 
 [![Gmail Badge](https://img.shields.io/badge/-thiago.srib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.srib@gmail.com)](mailto:thiago.srib@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/thiago-ribeiro-1279234a)](https://br.linkedin.com/in/thiago-ribeiro-1279234a/)
@@ -30,6 +30,17 @@ Would you like to find me?
   ![Snake animation](https://github.com/thiagosrib/thiagosrib/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+## 📖  What I am currently learning / improving on
+
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=06bcee" alt="React.JS logo" title="React.JS" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=06bcee" alt="React Native logo" title="React Native" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Adonis-282C34?logo=adonisjs&logoColor=FFFFFF" alt="Adonis logo" title="Adonis" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" />][learning_now_anchor]
+ 
 My current achievements
 
 - ⚡ Now I'm doing **NLW Together** by Rocketseat, learning Flutter and Dart
