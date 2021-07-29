@@ -17,7 +17,6 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<br><br><br>
 
 ## Would you like to find me?
 
@@ -39,8 +38,8 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  <img src="https://img.shields.io/badge/Adonis-282C34?logo=adonisjs&logoColor=FFFFFF" alt="Adonis logo" title="Adonis" height="25" />
  <img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" />
 </div>
- 
-My current achievements
+
+##My current achievements
 
 - ⚡ Now I'm doing **NLW Together** by Rocketseat, learning Flutter and Dart
 - ⚡ I'm doing **#GoStack** course by Rocketseat
