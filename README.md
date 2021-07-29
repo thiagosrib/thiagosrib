@@ -22,7 +22,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 <a name="tech_tools"></a>
 
-<div>
+<div style="display: inline_block">
  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
@@ -49,7 +49,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 ## 📖  What I am currently learning / improving on
 
-<div>
+<div style="display: inline_block">
  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
  <img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=06bcee" alt="React.JS logo" title="React.JS" height="25" />
  <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=06bcee" alt="React Native logo" title="React Native" height="25" />
