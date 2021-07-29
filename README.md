@@ -13,6 +13,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 ## 🛠  Technologies and tools
 
 <a name="tech_tools"></a>
+ 
 <div style="display: inline_block"><br>
  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,7 +26,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>
 
-<div style="display: inline_block; padding-top: 20px;">
+<div style="display: inline_block"><br>
  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
  <img src="https://img.shields.io/badge/swagger-282C34?logo=swagger&logoColor=63db2a" alt="Swagger logo" title="Swagger" height="25" />
  <img src="https://img.shields.io/badge/storybook-282C34?logo=storybook&logoColor=e54e8d" alt="Storybook logo" title="Storybook" height="25" />
