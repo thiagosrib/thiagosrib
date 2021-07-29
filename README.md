@@ -17,7 +17,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<br><br><br>
 
 Would you like to find me?
 
