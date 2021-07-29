@@ -33,7 +33,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
  <img src="https://img.shields.io/badge/swagger-282C34?logo=swagger&logoColor=63db2a" alt="Swagger logo" title="Swagger" height="25" />
  <img src="https://img.shields.io/badge/storybook-282C34?logo=storybook&logoColor=e54e8d" alt="Storybook logo" title="Storybook" height="25" />
- <img src="https://img.shields.io/badge/styled%20components-282C34?logo=styled-components&logoColor=ffffff" alt="Styled-Components logo" title="Styled Components" height="25" />
+ <img src="https://img.shields.io/badge/Styled%20Components-282C34?logo=styled-components&logoColor=ffffff" alt="Styled-Components logo" title="Styled Components" height="25" />
  <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
  <img src="https://img.shields.io/badge/iOS-282C34?logo=ios&logoColor=ffffff" alt="iOS logo" title="iOS" height="25" />
 </div>
