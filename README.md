@@ -18,6 +18,28 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+## 🛠  Technologies and tools
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+
 ## Would you like to find me?
 
 [![Gmail Badge](https://img.shields.io/badge/-thiago.srib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.srib@gmail.com)](mailto:thiago.srib@gmail.com)
@@ -29,14 +51,20 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
   ![Snake animation](https://github.com/thiagosrib/thiagosrib/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<a name="learning-next"></a>
+
 ## 📖  What I am currently learning / improving on
 
 <div>
- <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
- <img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=06bcee" alt="React.JS logo" title="React.JS" height="25" />
- <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=06bcee" alt="React Native logo" title="React Native" height="25" />
- <img src="https://img.shields.io/badge/Adonis-282C34?logo=adonisjs&logoColor=FFFFFF" alt="Adonis logo" title="Adonis" height="25" />
- <img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" />
+ [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+ &nbsp;
+ [<img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=06bcee" alt="React.JS logo" title="React.JS" height="25" />][learning_now_anchor]
+ &nbsp;
+ [<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=06bcee" alt="React Native logo" title="React Native" height="25" />][learning_now_anchor]
+ &nbsp;
+ [<img src="https://img.shields.io/badge/Adonis-282C34?logo=adonisjs&logoColor=FFFFFF" alt="Adonis logo" title="Adonis" height="25" />][learning_now_anchor]
+ &nbsp;
+ [<img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" />][learning_now_anchor]
 </div>
 
 ## My current achievements
