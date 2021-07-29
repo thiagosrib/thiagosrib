@@ -25,7 +25,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>
 
-<div style="display: inline_block; margin-top: 20px;">
+<div style="display: inline_block; padding-top: 20px;">
  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
  <img src="https://img.shields.io/badge/swagger-282C34?logo=swagger&logoColor=63db2a" alt="Swagger logo" title="Swagger" height="25" />
  <img src="https://img.shields.io/badge/storybook-282C34?logo=storybook&logoColor=e54e8d" alt="Storybook logo" title="Storybook" height="25" />
