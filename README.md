@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Thiago Ribeiro and I'm from Brazil (🇧🇷). I'm an enthusiastic of tecnology. Dependant of knowledge. I don't have fear about changes, even because I changed from +10 years Mainframe dev to mobile dev and I've always loved to produce a lot of content during my career. I'm Full Stack Developer at [JHSF](https://jhsf.com.br/).
+My name is Thiago Ribeiro and I'm from Brazil (🇧🇷). I'm an enthusiastic of tecnology. Dependant of knowledge. I don't have fear about changes, even because I changed from +10 years Mainframe dev to mobile dev and I've always loved to produce a lot of content during my career. I'm Tech Lead at [JHSF](https://jhsf.com.br/).
 
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen music (🎵), to learn about everything I can and eventually I like to philosophize about life.
 
