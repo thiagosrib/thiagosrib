@@ -37,7 +37,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 ## Would you like to find me?
 
 [![Gmail Badge](https://img.shields.io/badge/-thiago.srib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.srib@gmail.com)](mailto:thiago.srib@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/thiago-ribeiro-1279234a)](https://br.linkedin.com/in/thiago-ribeiro-1279234a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-s-ribeiro/)](https://www.linkedin.com/in/thiago-s-ribeiro/)
  <div>
 <!--   <a href = "mailto:thiago.srib@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-ribeiro-1279234a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
