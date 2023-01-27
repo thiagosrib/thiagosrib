@@ -1,5 +1,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&title=Commits,Repositories,Followers) -->
-![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" />
+</div>
 
 ### Hi there! 😁
 
@@ -7,14 +9,16 @@ My name is Thiago Ribeiro and I'm from Brazil (🇧🇷). I'm an enthusiastic of
 
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen music (🎵), to learn about everything I can and eventually I like to philosophize about life.
 
- <div>
+ <div align="center">
   <a href="https://github.com/thiagosrib">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=10&theme=tokyonight"/>
   </a>
  </div>
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagosrib&theme=tokyonight)
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagosrib&theme=tokyonight" />
+</div>
  
 <!--  <div>
   <a href="https://github.com/asseama">
