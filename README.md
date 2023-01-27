@@ -1,4 +1,4 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&title=Commits,Repositories,Followers)
 
 ### Hi there! 😁
 
