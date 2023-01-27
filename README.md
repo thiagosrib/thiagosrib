@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib)]
+![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib)
 
 ### Hi there! 😁
 
