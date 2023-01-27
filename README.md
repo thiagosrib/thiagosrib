@@ -20,20 +20,10 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  <img src="https://github-readme-streak-stats.herokuapp.com?user=thiagosrib&theme=tokyonight" />
 <!--  <img src="https://github-readme-streak-stats.herokuapp.com?user=thiagosrib&theme=tokyonight&mode=weekly" /> -->
 </div>
- 
-<!--  <div>
-  <a href="https://github.com/asseama">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&orgs=asseama,dutracode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&orgs=asseama,dutracode&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
- </div>
- 
- <div>
-  <a href="https://github.com/dutracode">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
- </div> -->
+
+<div align="center">
+ <img src="https://github.com/thiagosrib/thiagosrib/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 ## 🛠  Technologies and tools
 
@@ -63,12 +53,10 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 [![Gmail Badge](https://img.shields.io/badge/-thiago.srib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.srib@gmail.com)](mailto:thiago.srib@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-s-ribeiro/)](https://www.linkedin.com/in/thiago-s-ribeiro/)
- <div>
+<!--  <div> -->
 <!--   <a href = "mailto:thiago.srib@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-ribeiro-1279234a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
- 
-  ![Snake animation](https://github.com/thiagosrib/thiagosrib/blob/output/github-contribution-grid-snake.svg)
-</div>
+<!--   </div> -->
 
 <a name="learning-now"></a>
 
