@@ -12,7 +12,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  
  <div>
   <a href="https://github.com/asseama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?orgs=asseama,dutracoded&username=thiagosrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&orgs=asseama,dutracode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
  
