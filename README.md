@@ -73,8 +73,9 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 ## My current achievements
 
 - ⚡ I'm doing **#GoStack** course by Rocketseat
-- 🔭 I’m currently working on AILA mobile app. It's a Risk Management and Compliance mobile aplication.
-<!-- - 🌱 I’m currently learning more about Node.js, ReactJS, React Native, Ionic and Scrum framework -->
+- 🔭 I’m currently working on Single Sign On system for [JHSF](https://www.jhsf.com.br) aplications, in a e-commerce for Emporio Fasano as a Full-time Tech Lead.
+- 🔭 I’m currently working on a new Portal for [ASSEAMA](https://www.asseama.org.br) and its mobile Magazine application as a Volunteer.
+- 🌱 I’m currently learning more about Node.js, ReactJS, React Native, Next.js, Nestjs, Scrum framework and Leadership skills
 
 <!--
 **thiagosrib/thiagosrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
