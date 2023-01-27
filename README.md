@@ -1,5 +1,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&title=Commits,Repositories,Followers) -->
-![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)
+<center>
+ ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)
+</center>
 
 ### Hi there! 😁
 
@@ -14,7 +16,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
   </a>
  </div>
  
- <div>
+<!--  <div>
   <a href="https://github.com/asseama">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&orgs=asseama,dutracode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&orgs=asseama,dutracode&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -26,7 +28,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
- </div>
+ </div> -->
 
 ## 🛠  Technologies and tools
 
