@@ -68,7 +68,15 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
  <img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=06bcee" alt="React.JS logo" title="React.JS" height="25" />
  <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=06bcee" alt="React Native logo" title="React Native" height="25" />
  <img src="https://img.shields.io/badge/Adonis-282C34?logo=adonisjs&logoColor=FFFFFF" alt="Adonis logo" title="Adonis" height="25" />
+ <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+ <img src="https://img.shields.io/badge/-ApolloGraphQL-282C34?logo=apollo-graphql" alt="Apolo GraphQL logo" title="Apolo" height="25" />
+ <img src="https://img.shields.io/badge/expo-282C34?logo=expo&logoColor=#D04A37" alt="Expo logo" title="Expo" height="25" />
+ <img src="https://img.shields.io/badge/-React%20Query-282C34?logo=react%20query&logoColor=white" alt="React Query logo" title="React Query" height="25" />
+ 
  <img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />
+ <img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi" alt="FastAPI logo" title="FastAPI" height="25" />
 <!--  <img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" /> -->
 </div>
 
