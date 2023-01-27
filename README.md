@@ -1,6 +1,8 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&title=Commits,Repositories,Followers) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagosrib)
+
 ### Hi there! 😁
 
 My name is Thiago Ribeiro and I'm from Brazil (🇧🇷). I'm an enthusiastic of tecnology. Dependant of knowledge. I don't have fear about changes, even because I changed from +10 years Mainframe dev to mobile dev and I've always loved to produce a lot of content during my career. I'm Tech Lead at [JHSF](https://jhsf.com.br/).
