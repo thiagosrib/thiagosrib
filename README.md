@@ -1,7 +1,5 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&title=Commits,Repositories,Followers) -->
-![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagosrib)
+![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)
 
 ### Hi there! 😁
 
@@ -15,6 +13,8 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
  </div>
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagosrib&theme=tokyonight)
  
 <!--  <div>
   <a href="https://github.com/asseama">
