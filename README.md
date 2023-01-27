@@ -63,12 +63,13 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 ## 📖  What I am currently learning / improving on
 
 <div style="display: inline_block">
+ <img src="https://img.shields.io/badge/Next-282C34?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />
  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
  <img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=06bcee" alt="React.JS logo" title="React.JS" height="25" />
  <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=06bcee" alt="React Native logo" title="React Native" height="25" />
  <img src="https://img.shields.io/badge/Adonis-282C34?logo=adonisjs&logoColor=FFFFFF" alt="Adonis logo" title="Adonis" height="25" />
- <img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" />
- <img src="https://img.shields.io/badge/Next-282C34?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />
+ <img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />
+<!--  <img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=4a8bfc" alt="Ionic logo" title="Ionic" height="25" /> -->
 </div>
 
 ## My current achievements
