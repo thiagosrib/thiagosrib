@@ -18,7 +18,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=thiagosrib&theme=tokyonight" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=thiagosrib&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=thiagosrib&theme=tokyonight&mode=weekly" />
 </div>
  
 <!--  <div>
