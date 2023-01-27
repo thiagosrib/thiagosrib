@@ -1,7 +1,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&title=Commits,Repositories,Followers) -->
-<center>
+<div>
  ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&&&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)
-</center>
+</div>
 
 ### Hi there! 😁
 
