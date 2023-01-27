@@ -6,20 +6,23 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
  <div>
   <a href="https://github.com/thiagosrib">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
  </div>
  
  <div>
   <a href="https://github.com/asseama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&orgs=asseama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&orgs=asseama&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&orgs=asseama,dutracode&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
  </div>
  
  <div>
   <a href="https://github.com/dutracode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
  </div>
 
 ## 🛠  Technologies and tools
