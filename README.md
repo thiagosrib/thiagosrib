@@ -1,6 +1,6 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&title=Commits,Repositories,Followers) -->
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true&column=3" />
+ <img src="https://github-profile-trophy.vercel.app/?username=thiagosrib&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true&column=4" />
 </div>
 
 ### Hi there! 😁
@@ -19,6 +19,18 @@ In my free time, I enjoy watching movies (🎞️), and series (📺), reading b
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrib&layout=compact&langs_count=10&theme=tokyonight"/>
   </a>
 </div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagosrib&show_icons=true" />
+</picture>
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=thiagosrib&theme=tokyonight" />
