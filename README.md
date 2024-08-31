@@ -5,7 +5,7 @@
 
 ### Hi there! 😁
 
-My name is Thiago Ribeiro and I'm from Brazil (🇧🇷). I am the **Founder** of **[Mabi AI]([#](https://www.mabi-ai.com.br))**, a virtual assistant for Telegram that helps users identify whether a product is considered vegan based on its ingredients. I am also the **Founder** of **[e-cozi]([#](https://www.e-cozi.com.br))**, a SaaS specializing in industrial kitchen management, from ingredient sourcing to inventory management.
+My name is Thiago Ribeiro and I'm from Brazil (🇧🇷). I am the **Founder** of **[Mabi AI](https://www.mabi-ai.com.br)**, a virtual assistant for Telegram that helps users identify whether a product is considered vegan based on its ingredients. I am also the **Founder** of **[e-cozi](https://www.e-cozi.com.br)**, a SaaS specializing in industrial kitchen management, from ingredient sourcing to inventory management.
 
 In addition to my entrepreneurial endeavors, I'm currently working as a Specialist Tech Lead at **[Foursys](https://foursys.com.br/)**, where I focus on private pension projects in Mainframe. 
 
