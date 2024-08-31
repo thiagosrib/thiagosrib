@@ -5,11 +5,13 @@
 
 ### Hi there! 😁
 
-My name is Thiago Ribeiro, and I'm from Brazil (🇧🇷). I'm an enthusiastic technologist, constantly driven by the pursuit of knowledge. With over 18 years of experience, I transitioned from more than a decade as a Mainframe developer to becoming a mobile developer and Tech Lead at [Foursys](https://foursys.com.br/). I have always loved creating and sharing content throughout my career.
+My name is Thiago Ribeiro and I'm from Brazil (🇧🇷). I am the **Founder** of **[Mabi AI]([#](https://www.mabi-ai.com.br))**, a virtual assistant for Telegram that helps users identify whether a product is considered vegan based on its ingredients. I am also the **Founder** of **[e-cozi]([#](https://www.e-cozi.com.br))**, a SaaS specializing in industrial kitchen management, from ingredient sourcing to inventory management.
 
-As the Founder of [Mabi](https://t.me/mabi_ai_bot), I developed a virtual assistant for Telegram that helps users identify whether a product is vegan by analyzing the ingredients from images. Additionally, I am the Founder of [e-cozi](https://www.e-cozi.com.br), a SaaS specialized in industrial kitchen management, handling everything from supply management to produced inventory control.
+In addition to my entrepreneurial endeavors, I'm currently working as a Specialist Tech Lead at **[Foursys](https://foursys.com.br/)**, where I focus on private pension projects in Mainframe. 
 
-In my free time, I enjoy watching movies (🎞️) and series (📺), reading books (📚), listening to music (🎵), learning about everything I can, and occasionally philosophizing about life.
+I'm passionate about technology, constantly learning, and embracing new challenges. I transitioned from over 10 years as a Mainframe developer to mobile development, and I love producing content and sharing knowledge throughout my career.
+
+In my free time, I enjoy watching movies (🎞️), and series (📺), reading books (📚), listening to music (🎵), learning about everything I can, and occasionally philosophizing about life.
 
 <div align="center">
   <a href="https://github.com/thiagosrib">
@@ -77,7 +79,8 @@ In my free time, I enjoy watching movies (🎞️) and series (📺), reading bo
 
 ## My current achievements
 
+- 💡 **Founder** of **[Mabi AI]([#](https://www.mabi-ai.com.br))**: Enhancing the functionalities of a virtual assistant for Telegram that helps users identify whether a product is considered vegan based on its ingredients.
+- 💼 **Founder** of **[e-cozi]([#](https://www.e-cozi.com.br))**: Leading the development of a SaaS specialized in industrial kitchen management, covering everything from ingredient sourcing to inventory management.
 - 🔭 I’m currently working as a Specialist Tech Lead at **Foursys**, focusing on private pension projects in Mainframe.
 - 🔭 I’m currently working on a new Portal for **[ASSEAMA](https://www.asseama.org.br)** and its mobile Magazine application as a **Volunteer**.
-- 🚀 I’m enhancing the functionalities of **Mabi AI**.
 - 🌱 I’m assisting in the creation of a new concept for employee payments for companies.
